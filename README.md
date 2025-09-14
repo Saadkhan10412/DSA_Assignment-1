@@ -91,3 +91,30 @@ Input <br>
 Output <br>
 15 15 <br>
 <br><br><br>
+# Problem 3: 
+<br>
+In the Kingdom of Numberia, the Royal Mathematician discovered a strange mirror. <br>
+ When the matrix (scoreboard) is placed in front of this mirror: <br>
+● Every row of the matrix gets reversed. <br>
+● The first element becomes the last, <br>
+● The last element becomes the first, <br>
+● And so on… <br><br>
+The King, being curious, wants you to perform this magical row reversal. <br>
+Input <br>
+● First line contains two integers N (rows) and M (columns). <br>
+● Next N lines contain M integers each → the matrix. <br>
+Output <br>
+● Print the matrix after reversing each row. <br>
+Constraints <br>
+● 1 ≤ N, M ≤ 100 <br>
+● -10^5 ≤ Matrix[i][j] ≤ 10^5 <br>
+Input <br>
+3 3 <br>
+1 2 3 <br>
+4 5 6 <br>
+7 8 9 <br>
+ 
+Output <br>
+3 2 1 <br>
+6 5 4 <br>
+9 8 7<br>
