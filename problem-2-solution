@@ -17,5 +17,5 @@ int main(){
                 total=teamtotal;
                 indx=i;
             }
-        }cout<<indx<<endl;
+        }cout<<"the team with max score is on index:-"<<indx<<endl;
     }
