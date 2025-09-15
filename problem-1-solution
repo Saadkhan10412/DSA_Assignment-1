@@ -89,6 +89,6 @@ int main(){
             }
         }
         cout<<endl;
-    }cout<<total<<endl;
+    }cout<<"Total sum :-"<<total<<endl;
     return 0;
 }
