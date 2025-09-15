@@ -91,7 +91,7 @@ Input <br>
 Output <br>
 15 15 <br>
 <br><br><br>
-# Problem 3: 
+# Problem 4: 
 <br>
 In the Kingdom of Numberia, the Royal Mathematician discovered a strange mirror. <br>
  When the matrix (scoreboard) is placed in front of this mirror: <br>
